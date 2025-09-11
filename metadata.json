@@ -1,0 +1,5 @@
+{
+  "name": "Political Persona Post Generator",
+  "description": "A web app that generates a social media reaction post from a specific political viewpoint based on a news article or other social media post URL.",
+  "requestFramePermissions": []
+}
