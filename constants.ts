@@ -149,7 +149,7 @@ export const NEWS_SOURCES: NewsSource[] = [
   { id: 'yahoo-news', name: 'Yahoo! News', rssUrl: 'https://www.yahoo.com/news/rss' },
   { id: 'cnbc', name: 'CNBC', rssUrl: 'https://www.cnbc.com/id/100003114/device/rss/rss.html' },
   { id: 'cbs-news', name: 'CBS News', rssUrl: 'https://www.cbsnews.com/latest/rss/main' },
-  { id: 'bbc-news', name: 'BBC News', rssUrl: 'http://feeds.bbci.co.uk/news/rss.xml' },
+  { id: 'bbc-news', name: 'BBC News', rssUrl: 'https://feeds.bbci.co.uk/news/rss.xml' },
   { id: 'espn', name: 'ESPN', rssUrl: 'https://www.espn.com/espn/rss/news' },
   { id: 'npr', name: 'NPR', rssUrl: 'https://feeds.npr.org/1001/rss.xml' },
   { id: 'nytimes', name: 'NYTimes.com', rssUrl: 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml' },
@@ -160,5 +160,5 @@ export const NEWS_SOURCES: NewsSource[] = [
   { id: 'fox-news', name: 'Fox News', rssUrl: 'https://moxie.foxnews.com/google-publisher/latest.xml' },
   { id: 'politico', name: 'POLITICO', rssUrl: 'https://www.politico.com/rss/politicopicks.xml' },
   { id: 'guardian', name: 'The Guardian', rssUrl: 'https://www.theguardian.com/world/rss' },
-  { id: 'wapo', name: 'The Washington Post', rssUrl: 'http://feeds.washingtonpost.com/rss/world' },
+  { id: 'wapo', name: 'The Washington Post', rssUrl: 'https://feeds.washingtonpost.com/rss/world' },
 ];
