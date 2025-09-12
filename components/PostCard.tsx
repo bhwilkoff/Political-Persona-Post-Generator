@@ -13,7 +13,7 @@ export const PostCard: React.FC<PostCardProps> = ({ post }) => {
       <div className="p-6">
         <div className="flex justify-between items-center mb-2">
             <h4 className="text-sm font-semibold text-gray-400">
-                Longform Response
+                Longform Reaction
             </h4>
             <ShareButton text={post.text} imageUrl={post.imageUrl} />
         </div>
@@ -25,7 +25,7 @@ export const PostCard: React.FC<PostCardProps> = ({ post }) => {
         <div className="px-6 py-4 bg-gray-900/40 border-t border-gray-700">
           <div className="flex justify-between items-center mb-2">
             <h4 className="text-sm font-semibold text-gray-400">
-              Shortform Response
+              Shortform Reaction
             </h4>
             <ShareButton text={post.shortText} />
           </div>
