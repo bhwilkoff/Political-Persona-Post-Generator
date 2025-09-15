@@ -2,9 +2,6 @@
 
 This web application leverages the power of the Google Gemini API to generate social media reaction posts from a specific political viewpoint. Given a URL to a news article or another social media post, the app analyzes the content and crafts a response that mimics the tone, style, and arguments of a chosen political ideology.
 
-![Screenshot of the Political Persona Post Generator App](https://storage.googleapis.com/aistudio-hosting/generative_ai_studio_template_previews/political-persona-post-generator-v1.png)
-*Note: The image above is a representative screenshot.*
-
 ## ✨ Features
 
 -   **Wide Range of Personas:** Choose from over 25 distinct political ideologies, from Anarcho-Communist to Theoconservative.
